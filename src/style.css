@@ -1,0 +1,6 @@
+.container {
+  column-gap: 15px;
+}
+input {
+  display: block;
+}
